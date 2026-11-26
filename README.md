@@ -2,7 +2,7 @@
 
 Compare two open tabs in Notepad++ line by line. Free, open source (GPL v2 or later). Works locally; no text leaves your computer.
 
-**Status: beta. Version 1.1.3 has not been tested inside Notepad++ yet** (new dialogs, menu items and file export). An earlier version loaded and drew highlights. The diff and patch engine is tested separately on Linux.
+**Status: beta. Download and installation have been checked by a user. Full feature and compatibility testing is still pending.**
 
 ## Features
 - Mark a tab, then compare another tab with it, or use "Choose two tabs to compare..."
@@ -14,7 +14,7 @@ Compare two open tabs in Notepad++ line by line. Free, open source (GPL v2 or la
 - Export a self-contained HTML report
 
 ## Install
-Installer option: TextCompareLab-Npp-Installer-1.1.3.exe from the release. **The installer has never been run on Windows (completely untested)**; the ZIP below is the safer route. It is unsigned (check the SHA-256), you must close Notepad++ first (it never closes it for you), and it can also uninstall. Install by hand from the ZIP:
+Installer option: TextCompareLab-Npp-Installer-1.1.3.exe from the release. It is unsigned (check the SHA-256), you must close Notepad++ first (it never closes it for you), and it can also uninstall. Install by hand from the ZIP:
 
 1. Close Notepad++. Download the zip for your build (x64, x86, ARM64). Each zip holds TextCompareLab.dll, README.txt, LICENSE-GPL2.txt and THIRD-PARTY-NOTICES.txt.
 2. Check the SHA-256 against the release notes. If it differs, do not use the file.
