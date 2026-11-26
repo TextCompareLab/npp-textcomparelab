@@ -32,3 +32,5 @@ This repository holds the complete source of what the release binaries are built
 ## License
 GPL v2 or later. Built on the Notepad++ plugin template. See LICENSE-GPL2.txt and THIRD-PARTY-NOTICES.txt.
 Copyright TextCompareLab project. Website page: https://textcomparelab.com/notepad-plugin
+
+Sponsored by [TextCompareLab](https://textcomparelab.com)
